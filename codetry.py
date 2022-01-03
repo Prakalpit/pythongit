@@ -1,4 +1,4 @@
- import subprocess
+import subprocess
 print ( "Hi I am python version A.12.4.cE \n I can help you open different applications installed in this computer."
         " \n here are the examples of the applications i can open \n "
         "1) calculator\n 2) wordpad \n 3) notepad \n 4)excel \n 5) Word \n 6)powerpoint ")
